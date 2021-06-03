@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most famous victory obtained by that vallant religious gentleman Collonell Venne against Prince Robert, who came against Windsor on Munday the 7th of November promising Collonell Venn great preferment if that he wou'd deliver up the said castle to His Majesties use : also Collonell Vens answer to Prince Roberts propositions : likewise declaring how the said towne is beat downe, and men, women, and children forced to fly into the woods to save themselves from the cruelty of the Cavaliers.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51458</idno><idno type="EEBO-CITATION">12401998</idno>
+  <idno type="VID">61273</idno>
+  <idno type="EEBO-PROQUEST">2240970658</idno>
+  
+            <idno type="STC">Wing M2888</idno>
+            <idno type="STC">ESTC R19948</idno>
+            <idno type="OCLC">12401998</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E126, no 42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most famous victory obtained by that vallant religious gentleman Collonell Venne against Prince Robert, who came against Windsor on Munday the 7th of November promising Collonell Venn great preferment if that he wou'd deliver up the said castle to His Majesties use : also Collonell Vens answer to Prince Roberts propositions : likewise declaring how the said towne is beat downe, and men, women, and children forced to fly into the woods to save themselves from the cruelty of the Cavaliers.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Rich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Nov. 10, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="personal_name">Venn, John, 1586-1650.</term>
+               <term type="corporate_name">Windsor Castle --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61273:1"/>
+            <pb facs="tcp:61273:1"/>
+            <p>A most famous Victory Obtained by that vallant religious Gentle<g ref="char:EOLhyphen"/>man, Collonell VENNE, Against Prince <hi>Robert,</hi> who came a<g ref="char:EOLhyphen"/>gainst <hi>Windsor</hi> on Munday the 7th of <hi>November,</hi> promising Collonell VENN great preferment if that he would deliver up the said Castle to his Majesties use,</p>
+            <p>Also Collonell <hi>Vens</hi> Answer to Prince <hi>Roberts</hi> PROPOSITIONS Likewise declaring how the said Towne is beat downe, and men, women, and Children, forced to fly into the woods to save themselves from the cruelty of the Cavaliers.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Rich, Nov.</hi> 10. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61273:2"/>
+            <pb n="3" facs="tcp:61273:2"/>
+            <head>Joyfull Tydings FROM VVINDSOR <hi>November the seventh</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Rince Robert having of late days since his comming in<g ref="char:EOLhyphen"/>to this King<g ref="char:EOLhyphen"/>dom commit<g ref="char:EOLhyphen"/>ted many out rages, And Bloody, and inhumane Acts, putting to the sword both man woman and child in divers parts of this Realm; but yet for all this, his minde not
+<pb facs="tcp:61273:3"/> being full satisfied with these his unhumane Acts and proceedings, and being desirous to put some of his Plots and Conspiracies in exe<g ref="char:EOLhyphen"/>cution against the towne and Castle of WINDSOR, upon the 7th. of this present NOVEMBER, he advanced towards the said Towne and Castle with about 1500. Horse, and at his first comming thither, under a pretence of laying downe of his Armes, he propounded these fol<g ref="char:EOLhyphen"/>lowing Propositions to Collonell VEN and the rest of the Comman<g ref="char:EOLhyphen"/>ders and souldiers that had possessi<g ref="char:EOLhyphen"/>on of the said Town and Castle▪ <hi>viz.</hi>
+            </p>
+            <p>The first Proposition he declar<g ref="char:EOLhyphen"/>eth his full minde and Resolution to Collonell VEN and the rest of the Inhabitants, which was to this effect.</p>
+            <p>First that if the said Colonell VEN would be pleased to resigne up the Castle to him for the service
+<pb facs="tcp:61273:3"/> of the King and Kingdome, he would willingly disband all his forces and lay downe his Armes and proceed no further in these wayes which he hath already be<g ref="char:EOLhyphen"/>gune in for his Majesty.</p>
+            <p>Secondly, that if the said Collonell <hi>Ven,</hi> would but let him have accesse into the said Towne and Castle, and resigne the charge thereof into his costody he would immediatly send to his Majesty to informe him of his true and faithfull service in de<g ref="char:EOLhyphen"/>livering up the said castle, Collonell <hi>Ven</hi> having heard these his proposi<g ref="char:EOLhyphen"/>tions from Prince <hi>Robert</hi> and finding them to bee onely for his onwe ad<g ref="char:EOLhyphen"/>vantage, and under pretence of lay<g ref="char:EOLhyphen"/>ing downe his armes he forthwith returned this answere to his high<g ref="char:EOLhyphen"/>nesse that the Parliament hath beene pleased to impose the charge of the said Towne and Castle, so he would to the utermost of his
+<pb facs="tcp:61273:4"/> power <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his life, &amp; <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to preserve the same for the use of the King and Parliament against all those that should oppose him therein, and that for the resigning of it up to his highnesse Prince <hi>Robert,</hi> he nei<g ref="char:EOLhyphen"/>ther would commit the charge ther<g ref="char:EOLhyphen"/>of unto him, although that he did pretend to lay downe his Armes, and to disband all his forces, when he had possession of the said Castle.</p>
+            <p>Prince <hi>Robert</hi> having received this answer, was strucke into a feare<g ref="char:EOLhyphen"/>full and terrible outrage, and com<g ref="char:EOLhyphen"/>manded▪ all his Horse and foot to discharge against the inhabitants of the said Towne, commanding his Cannoneers to plant those five pie<g ref="char:EOLhyphen"/>ces of Ordnance that they had with them, against the Castle.</p>
+            <p>Yet all this could not prevaile, for Collonell <hi>Venne</hi> planted seven pieces of Ordnance right opposite against the Cavalieers, this fight be<g ref="char:EOLhyphen"/>gan
+<pb facs="tcp:61273:4"/> about tenne of the Clocke i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the forenoone on Munday last, and continued untill six at night.</p>
+            <p>But Prince <hi>Roberts</hi> Troopes be<g ref="char:EOLhyphen"/>ing many in number, prevailed a<g ref="char:EOLhyphen"/>gainst the inhabitants of the said Towne, so that they were forced to retreat into the Castle for their safe<g ref="char:EOLhyphen"/>guard, which being done, Prince <hi>Robert</hi> drew his forces into the said Towne, and with his Ordnance from <hi>Eaton</hi> Colledge, which he had caused to be planted there▪ he be<g ref="char:EOLhyphen"/>gan to let fly at the Castle thus con<g ref="char:EOLhyphen"/>tinued, they shooting for the space of seven houres▪ doing great execu<g ref="char:EOLhyphen"/>iion on both sides, for there was slain neer a thousand of the Princes forces, and many of our men, one<g ref="char:EOLhyphen"/>ly not one of note, but Captaine <hi>Sanders,</hi> a noble honest Gentleman and a good souldier, who went downe thither with Collonell VEN for the defence of the true prote<g ref="char:EOLhyphen"/>stant
+<pb facs="tcp:61273:5"/> Religion, Also Collonell VEN behaved himselfe very bravely, to the wonder and amazement of the behoulders, so that in spight of all Ptince <hi>Roberts</hi> pollicy, he and his Cavaliers were forced to retreate, &amp; leave to assault the Castle.</p>
+            <p>As for the Town that is mighti<g ref="char:EOLhyphen"/>ly battered and ruined, and the in<g ref="char:EOLhyphen"/>habitants very much damnified.</p>
+            <p>All which stood well affected to the Parliament, went into the Castle and are safe, as for the rest they are left to the wide world, as well they deserve it, for had they been true, they had not come to this misery that they are now like to endure.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
